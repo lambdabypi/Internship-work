@@ -37,3 +37,6 @@ This implements "Assignment 7"s code and adds a mass calculation formula to get 
 The goal was to figure out the weight of the actual object. Assumptions were made.
 
 ![unnamed](https://user-images.githubusercontent.com/117454176/208176071-fa86af97-8932-44fe-9211-ab2957bb2bb1.png)
+
+##Stage_one:
+This is to get live webcam feed and get the contours of said feed for any specific use.

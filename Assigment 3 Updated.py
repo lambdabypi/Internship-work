@@ -4,7 +4,7 @@
 # In[1]:
 
 
-pip install tensorflow
+#pip install tensorflow
 
 
 # In[ ]:

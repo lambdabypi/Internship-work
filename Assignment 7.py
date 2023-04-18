@@ -4,7 +4,7 @@
 # In[ ]:
 
 
-pip install pyntcloud
+#pip install pyntcloud
 
 
 # In[2]:
